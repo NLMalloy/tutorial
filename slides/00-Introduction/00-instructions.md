@@ -23,6 +23,9 @@ use the verify button to check whether your solution is correct.
 5. ARIA stands for Accessible Rich Internet Applications, a W3C standard for 
    building accessible user interfaces on the web.
 
-VoiceOver is also available to iPhone users. Try testing the concepts you learn with this tutorial on your iPhone later! To activate VoiceOver go to Settings > General > Accessibility then toggle VoiceOver on. Now when you tap your screen, VoiceOver will tell you what's under your finger. A double-tap selects the item. 
+VoiceOver is also available to iPhone users. Try testing the concepts you learn
+with this tutorial on your iPhone later! To activate VoiceOver go to Settings >
+General > Accessibility then toggle VoiceOver on. Now when you tap your screen,
+VoiceOver will tell you what's under your finger. A double-tap selects the item. 
 
 Happy learning! <i class="fa fa-smile-o"><i class="accessible_elem">Smiley Icon</i></i>
